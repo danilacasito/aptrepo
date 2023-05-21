@@ -1,0 +1,5 @@
+FOR INSTALLING ON UBUNTU DEVICES:
+
+curl -s --compressed "https://danilacasito.github.io/apt_repo/KEY.gpg | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/aptrepos.gpg > /dev/null
+sudo curl -s --compressed -o /etc/apt/sources.list.d/aptrepo_ubuntu.list "https://danilacasito.github.io/aptrepo_ubuntu.list"
+sudo apt update
