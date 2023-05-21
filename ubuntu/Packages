@@ -13,3 +13,16 @@ Priority: optional
 Homepage: https://github.com/cli/cli
 Description: GitHub’s official command line tool.
 
+Package: vim
+Version: 9.0.1572-1
+Architecture: arm64
+Maintainer: Daniel <danilacasito8@gmail.com>
+Depends: libacl1, libc6, libgpm2, libpython3.11, libselinux1, libsodium23, libtinfo6
+Filename: ./v/vim_9.0.1572-1_arm64.deb
+Size: 13777808
+MD5sum: 66e657d5d9d0d1d1065306440ae6871e
+SHA1: b794aa7ef980d5a7229c69f0b9d97e72ce6c6d97
+SHA256: ade6c3477df00cc720d7191c5c0f474be77bf7d807dd6c354ef21d3897afae2f
+Homepage: https://github.com/vim/vim
+Description: Vim is a text editor that runs into your terminal
+
