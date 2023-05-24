@@ -13,6 +13,18 @@ Priority: optional
 Homepage: https://github.com/cli/cli
 Description: GitHub’s official command line tool.
 
+Package: python3-django
+Version: 4.2.1-1
+Architecture: arm64
+Maintainer: Daniel <danilacasito8@gmail.com>
+Depends: python3
+Filename: ./python3/python3-django_4.2.1-1_arm64.deb
+Size: 7893310
+MD5sum: 531341a167a6d7e8ecf4c014d047e5d3
+SHA1: 149635d4de9bf004b84e563056b6f81961280b95
+SHA256: 6161bdf2f5c5eb843fb239a6f4bc8bf6b77a9bf3050c71db2a0c0b3761df7891
+Description: A high-level Python web framework that encourages rapid development and clean, pragmatic design
+
 Package: vim
 Version: 9.0.1572-1
 Architecture: arm64
